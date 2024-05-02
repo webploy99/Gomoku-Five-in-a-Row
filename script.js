@@ -19,11 +19,11 @@ document.getElementById('iconSmall').src = iconInfo.icon;
 
 // ======== get images URL ========
 imageUrl = {
-  image1: "https://vn-appstore.com/id010597666/images/img1.jpg",
-  image2: "https://vn-appstore.com/id010597666/images/img2.jpg",
-  image3: "https://vn-appstore.com/id010597666/images/img3.jpg",
-  image4: "https://vn-appstore.com/id010597666/images/img4.jpg",
-  image5: "https://vn-appstore.com/id010597666/images/img5.jpg",
+  image1: "https://vn-appstore.com/id010597666/images/photo1.png",
+  image2: "https://vn-appstore.com/id010597666/images/photo2.png",
+  image3: "https://vn-appstore.com/id010597666/images/photo3.png",
+  image4: "https://vn-appstore.com/id010597666/images/photo4.png",
+  image5: "https://vn-appstore.com/id010597666/images/photo5.png",
 
   appImg1:
     "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8b/3f/1b/8b3f1ba2-8b24-28ff-94d3-e9af16162ce6/7dc4291d-c48b-4421-b9a4-ac0dac5f275e_IOS-Description-meng-chhy_11.jpg/434x0w.webp",
